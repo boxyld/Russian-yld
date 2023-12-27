@@ -1,5 +1,7 @@
-# Russian-yld
-Russian-yld is multiplayer game that will make you pc at risk cuz if you lose your pc will shutdown and it's uses arabic language by defult
+# روليت يلد
+روليت يلد هي لعبة جماعية بسيطة تم تصميمها بلغة بايثون بحيث ان الخاسر سيتم طرده بإطفاء جهازة بشكل اوتوماتيكي ولا يوجد اي قوانين خاصة فقط انت والأصدقاء تحددون القوانين 
+
+
 
 
 english version is coming soon
